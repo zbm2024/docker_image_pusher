@@ -1,5 +1,2 @@
-jxxghp/moviepilot
-iyuucn/iyuuplus
-jeessy/ddns-go
-tailscale/tailscale
-linuxserver/qbittorrent
+music_tag_web
+navidrome
