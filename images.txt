@@ -1,2 +1,3 @@
 xhongc/music_tag_web
 deluan/navidrome
+daydao/daydao
